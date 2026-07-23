@@ -15,6 +15,7 @@
 
 ## 介绍
 欢迎关注虚拟主播团体FuyumikanLab！招募报名暂未开通，感谢您的关注。
+[Fuyumikan Lab 公式サイト](https://fuyumikanlab.vrfan.icu/)
 
 ## 目前产线
 - 酸甜的Shiranui
